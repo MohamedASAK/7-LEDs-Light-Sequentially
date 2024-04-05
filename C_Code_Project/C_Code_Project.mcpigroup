@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=..\..\90 Seconds Counter\C_Code_Project\C_Code_Project.mcppi
+Project1=MyProject.mcppi
+[ActiveProject]
+Index=1
